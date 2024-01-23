@@ -10,7 +10,7 @@ The primary challenge was to create a visually appealing and user-friendly websi
 
 ## Screenshot
 
-![Portfolio Website Screenshot](screenshot.png)
+![Portfolio Website Screenshot](./images/full-website-screenshot.png)
 
 ## Links
 
